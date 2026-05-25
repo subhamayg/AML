@@ -30,4 +30,5 @@ The quality of the factorization is evaluated using:
 
 1. Open `algorithm/Code.ipynb` in Jupyter Notebook or a similar environment.
 2. Ensure you have the necessary dependencies installed (e.g., NumPy, SciPy, Matplotlib).
-3. The notebook is structured to first define the helper functions and models. You can run the tuning or single-split sections for fast execution, or the full experimental suite (which can take a couple of hours) for comprehensive results.
+3. Download the suitable data files and place them in the `data/` directory before running the code.
+4. The notebook is structured to first define the helper functions and models. You can run the tuning or single-split sections for fast execution, or the full experimental suite (which can take a couple of hours) for comprehensive results.

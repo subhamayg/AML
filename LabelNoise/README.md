@@ -26,4 +26,5 @@ The algorithms are evaluated on image classification datasets such as CIFAR and 
 
 1. Open `algorithm/Code.ipynb` in Jupyter Notebook or a similar environment.
 2. Ensure you have the necessary dependencies installed (e.g., PyTorch, NumPy, Pandas).
-3. Run the cells sequentially to train and evaluate the models. Note that rigorous performance evaluation (the 10 splits section) may take a significant amount of time to execute.
+3. Download the suitable data files and place them in the `data/` directory before running the code.
+4. Run the cells sequentially to train and evaluate the models. Note that rigorous performance evaluation (the 10 splits section) may take a significant amount of time to execute.
