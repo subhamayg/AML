@@ -1,6 +1,6 @@
 # Non-negative Matrix Factorization (NMF)
 
-This project explores Non-negative Matrix Factorization (NMF) algorithms for dimensionality reduction and feature extraction, primarily applied to facial recognition datasets. It was developed for Assignment 1 of COMP5328 (Advanced Machine Learning).
+This project explores Non-negative Matrix Factorization (NMF) algorithms for dimensionality reduction and feature extraction, primarily applied to facial recognition datasets. It is meant to demonstrate my ability to NMF implementat directly from theoretical paper (see pdf).
 
 ## Overview
 
