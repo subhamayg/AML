@@ -1,6 +1,4 @@
-# Advanced Machine Learning (COMP5328)
-
-This repository contains coursework and assignments for the COMP5328 Advanced Machine Learning course.
+# This repository contains a sample of work done by me independently.
 
 ## Projects
 
