@@ -1,6 +1,6 @@
 # Label Noise Robustness
 
-This project focuses on implementing machine learning algorithms that are robust to label noise, developed as part of Assignment 2 for COMP5328 (Advanced Machine Learning).
+This project focuses on implementing machine learning algorithms that are robust to label noise.
 
 ## Overview
 
